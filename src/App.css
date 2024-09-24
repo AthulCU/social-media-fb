@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: orangered;
+}
+.container {
+  /* width: 50%; */
+  border-radius: 2%;
+  background-color: rgb(230, 230, 230);
+  margin: 200px 780px;
+  max-width: 18%;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 40px;
+  margin: auto;
+  margin-top: 200px;
+}
+h1 {
+  font-weight: 900;
+  text-align: start;
+}
